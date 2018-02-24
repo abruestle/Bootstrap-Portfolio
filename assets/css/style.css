@@ -102,6 +102,10 @@ div.thumbnail a img {
     border-bottom-left-radius: 5px;
 }
 
+.caption a {
+  color: white;
+}
+
 .input-group {
 	margin-bottom:20px;
 }
